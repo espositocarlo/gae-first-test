@@ -1,0 +1,2 @@
+serviceClass: com.google.prova.client.GreetingService
+path: E9D4D602F2656E50D3D5C5495633D635.gwt.rpc
